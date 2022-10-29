@@ -12,5 +12,10 @@ namespace BlackProject
         {
             Console.WriteLine("Hi, bro! This is me, your friend White!");
         }
+
+        public static void GreetBlack()
+        {
+            Console.WriteLine("Hello Black!");
+        }
     }
 }
