@@ -6,6 +6,8 @@ namespace BlackProject
         public static void Main()
         {
             Console.WriteLine("Hello, I'm Black! Hi everyone!");
+            GreetWhite();
+            GreetBlack();
         }
         
         public static void GreetWhite()
